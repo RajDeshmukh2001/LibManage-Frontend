@@ -1,0 +1,27 @@
+[
+    {
+        "id": "recent",
+        "value": "Recent",
+        "text": "Recent (Sorting)"
+    },
+    {
+        "id": "title1",
+        "value": "title_ascending",
+        "text": "Title (A-Z)"
+    },
+    {
+        "id": "title2",
+        "value": "title_descending",
+        "text": "Title (Z-A)"
+    },
+    {
+        "id": "highrent",
+        "value": "high_rent",
+        "text": "Rent (High-Low)"
+    },
+    {
+        "id": "lowrent",
+        "value": "low_rent",
+        "text": "Rent (Low-High)"
+    }
+]

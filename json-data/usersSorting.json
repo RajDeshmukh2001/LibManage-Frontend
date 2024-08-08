@@ -1,0 +1,27 @@
+[
+    {
+        "id": "recent",
+        "value": "recent",
+        "text": "Recent (Sorting)"
+    },
+    {
+        "id": "name1",
+        "value": "name_ascending",
+        "text": "Name (A-Z)"
+    },
+    {
+        "id": "name2",
+        "value": "name_descending",
+        "text": "Name (Z-A)"
+    },
+    {
+        "id": "highest",
+        "value": "books_issued_ascending",
+        "text": "Books Issued (High-Low)"
+    },
+    {
+        "id": "lowest",
+        "value": "books_issued_descending",
+        "text": "Books Issued (Low-High)"
+    }
+]

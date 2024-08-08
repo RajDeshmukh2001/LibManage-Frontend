@@ -1,0 +1,22 @@
+[
+    {
+        "route": "/",
+        "title": "Dashboard",
+        "icon": "home"
+    },
+    {
+        "route": "/books", 
+        "title": "Manage Books",
+        "icon": "manage"
+    },
+    {
+        "route": "/issued_books",
+        "title": "Issued Books",
+        "icon": "issue"
+    },
+    {
+        "route": "/users",
+        "title": "Users",
+        "icon": "users"
+    }
+]

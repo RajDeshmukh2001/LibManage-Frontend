@@ -15,7 +15,9 @@
         "category": "Mobile Developement",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Android in Action, Second Edition",
@@ -32,7 +34,9 @@
         "category": "Java",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Specification by Example",
@@ -46,7 +50,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.5,
+        "noOfTimesRented": 0
     },
     {
         "title": "Flex 3 in Action",
@@ -62,7 +68,9 @@
         "category": "Internet",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.8,
+        "noOfTimesRented": 0
     },
     {
         "title": "Flex 4 in Action",
@@ -80,7 +88,9 @@
         "category": "Internet",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Collective Intelligence in Action",
@@ -95,7 +105,9 @@
         "category": "Internet",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 2.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Zend Framework in Action",
@@ -113,7 +125,9 @@
         "category": "Web Development",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.7,
+        "noOfTimesRented": 0
     },
     {
         "title": "Flex on Java",
@@ -130,7 +144,9 @@
         "category": "Internet",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.8,
+        "noOfTimesRented": 0
     },
     {
         "title": "Griffon in Action",
@@ -148,7 +164,9 @@
         "category": "Java",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "OSGi in Depth",
@@ -164,7 +182,9 @@
         "category": "Java",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.1,
+        "noOfTimesRented": 0
     },
     {
         "title": "Flexible Rails",
@@ -180,7 +200,9 @@
         "category": "Web Development",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.6,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hello! Flex 4",
@@ -196,7 +218,9 @@
         "category": "Internet",
         "rent": 30,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 2.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "Coffeehouse",
@@ -213,7 +237,9 @@
         "category": "Miscellaneous",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.0,
+        "noOfTimesRented": 0
     },
     {
         "title": "Team Foundation Server 2008 in Action",
@@ -228,7 +254,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 2.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Brownfield Application Development in .NET",
@@ -245,7 +273,9 @@
         "category": "Microsoft .NET",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.7,
+        "noOfTimesRented": 0
     },
     {
         "title": "MongoDB in Action",
@@ -261,7 +291,9 @@
         "category": "Databases",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.8,
+        "noOfTimesRented": 0
     },
     {
         "title": "Distributed Application Development with PowerBuilder 6.0",
@@ -275,7 +307,9 @@
         "category": "PowerBuilder",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.6,
+        "noOfTimesRented": 0
     },
     {
         "title": "Jaguar Development with PowerBuilder 7",
@@ -291,7 +325,9 @@
         "category": "PowerBuilder",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "Taming Jaguar",
@@ -307,7 +343,9 @@
         "category": "PowerBuilder",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.2,
+        "noOfTimesRented": 0
     },
     {
         "title": "3D User Interfaces with Java 3D",
@@ -322,7 +360,9 @@
         "category": "Computer Graphics",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.1,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hibernate in Action",
@@ -339,7 +379,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hibernate in Action (Chinese Edition)",
@@ -353,7 +395,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.6,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Persistence with Hibernate",
@@ -370,7 +414,9 @@
         "category": "Java",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.1,
+        "noOfTimesRented": 0
     },
     {
         "title": "JSTL in Action",
@@ -385,7 +431,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.8,
+        "noOfTimesRented": 0
     },
     {
         "title": "iBATIS in Action",
@@ -403,7 +451,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.1,
+        "noOfTimesRented": 0
     },
     {
         "title": "Designing Hard Software",
@@ -418,7 +468,9 @@
         "category": "Object-Oriented Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.3,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hibernate Search in Action",
@@ -435,7 +487,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.3,
+        "noOfTimesRented": 0
     },
     {
         "title": "jQuery in Action",
@@ -452,7 +506,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.7,
+        "noOfTimesRented": 0
     },
     {
         "title": "jQuery in Action, Second Edition",
@@ -469,7 +525,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Building Secure and Reliable Network Applications",
@@ -485,7 +543,9 @@
         "category": "Networking",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.6,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ruby for Rails",
@@ -501,7 +561,9 @@
         "category": "Web Development",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 2.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Well-Grounded Rubyist",
@@ -517,7 +579,9 @@
         "category": "Programming",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.7,
+        "noOfTimesRented": 0
     },
     {
         "title": "Website Owner's Manual",
@@ -533,7 +597,9 @@
         "category": "Internet",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.3,
+        "noOfTimesRented": 0
     },
     {
         "title": "ASP.NET 4.0 in Practice",
@@ -551,7 +617,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 2.7,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hello! Python",
@@ -567,7 +635,9 @@
         "category": "Python",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.5,
+        "noOfTimesRented": 0
     },
     {
         "title": "PFC Programmer's Reference Manual",
@@ -582,7 +652,9 @@
         "category": "PowerBuilder",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.5,
+        "noOfTimesRented": 0
     },
     {
         "title": "Graphics File Formats",
@@ -598,7 +670,9 @@
         "category": "Computer Graphics",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 3.9,
+        "noOfTimesRented": 0
     },
     {
         "title": "Visual Object Oriented Programming",
@@ -615,7 +689,9 @@
         "category": "Programming",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iOS in Practice",
@@ -629,7 +705,9 @@
         "category": "Mobile Developement",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iPhone in Action",
@@ -646,7 +724,9 @@
         "category": "Web Development",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Silverlight 2 in Action",
@@ -663,7 +743,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Quick Python Book, Second Edition",
@@ -679,7 +761,9 @@
         "category": "Python",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Internet and Intranet Applications with PowerBuilder 6",
@@ -694,7 +778,9 @@
         "category": "PowerBuilder",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Practical Methods for Your Year 2000 Problem",
@@ -709,7 +795,9 @@
         "category": "Business",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Mobile Agents",
@@ -726,7 +814,9 @@
         "category": "Internet",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring Dynamic Modules in Action",
@@ -744,7 +834,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server 2008 Administration in Action",
@@ -759,7 +851,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Android in Practice",
@@ -778,7 +872,9 @@
         "category": "Mobile Developement",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Object Oriented Perl",
@@ -793,7 +889,9 @@
         "category": "Object-Oriented Programming",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "GWT in Practice",
@@ -809,7 +907,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ajax in Action",
@@ -825,7 +925,9 @@
         "category": "XML",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ajax in Practice",
@@ -844,7 +946,9 @@
         "category": "Web Development",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Prototype and Scriptaculous in Action",
@@ -860,7 +964,9 @@
         "category": "Web Development",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "POJOs in Action",
@@ -876,7 +982,9 @@
         "category": "Java",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Data Munging with Perl",
@@ -891,7 +999,9 @@
         "category": "Perl",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hello! HTML5 & CSS3",
@@ -907,7 +1017,9 @@
         "category": "Internet",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Seam in Action",
@@ -923,7 +1035,9 @@
         "category": "Java",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Wicket in Action",
@@ -939,7 +1053,9 @@
         "category": "Web Development",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Open Source SOA",
@@ -954,7 +1070,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Struts 2 in Action",
@@ -971,7 +1089,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Essential Guide to Peoplesoft Development and Customization",
@@ -989,7 +1109,9 @@
         "category": "Client-Server",
         "rent": 110,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": ".NET Multithreading",
@@ -1004,7 +1126,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SCWCD Exam Study Kit Second Edition",
@@ -1022,7 +1146,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring Roo in Action",
@@ -1037,7 +1163,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SOA Governance in Action",
@@ -1051,7 +1179,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "RSS and Atom in Action",
@@ -1066,7 +1196,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "LDAP Programming, Management and Integration",
@@ -1081,7 +1213,9 @@
         "category": "Internet",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Mule in Action",
@@ -1097,7 +1231,9 @@
         "category": "Software Engineering",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Foundation Classes",
@@ -1113,7 +1249,9 @@
         "category": "Java",
         "rent": 110,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Python and Tkinter Programming",
@@ -1128,7 +1266,9 @@
         "category": "Python",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Microsoft.NET for Programmers",
@@ -1143,7 +1283,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Grails in Action",
@@ -1160,7 +1302,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Up to Speed with Swing, Second Edition",
@@ -1176,7 +1320,9 @@
         "category": "Java",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "OSGi in Action",
@@ -1195,7 +1341,9 @@
         "category": "Internet",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "GWT in Action",
@@ -1211,7 +1359,9 @@
         "category": "Internet",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Quick Python Book",
@@ -1227,7 +1377,9 @@
         "category": "Python",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SharePoint 2010 Site Owner's Manual",
@@ -1243,7 +1395,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Development with Ant",
@@ -1260,7 +1414,9 @@
         "category": "Internet",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Lucene in Action",
@@ -1276,7 +1432,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Lucene in Action, Second Edition",
@@ -1294,7 +1452,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "PowerBuilder 6.0 Questions & Answers",
@@ -1310,7 +1470,9 @@
         "category": "PowerBuilder",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Awesome Power of PowerJ",
@@ -1326,7 +1488,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Awesome Power of Power++",
@@ -1342,7 +1506,9 @@
         "category": "PowerBuilder",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Azure in Action",
@@ -1359,7 +1525,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Distributed Agile in Action",
@@ -1375,7 +1543,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Metaprogramming in .NET",
@@ -1390,7 +1560,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Portlets and Apache Portals",
@@ -1409,7 +1581,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Code Generation in Action",
@@ -1425,7 +1599,9 @@
         "category": "Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Illustrated Guide to HTTP",
@@ -1440,7 +1616,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Agile ALM",
@@ -1456,7 +1634,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Network Programming, Second Edition",
@@ -1474,7 +1654,9 @@
         "category": "Java",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Struts in Action",
@@ -1492,7 +1674,9 @@
         "category": "Internet",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Camel in Action",
@@ -1509,7 +1693,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Taming Text",
@@ -1527,7 +1713,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JBoss in Action",
@@ -1543,7 +1731,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Gnuplot in Action",
@@ -1558,7 +1748,9 @@
         "category": "Computer Graphics",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Extending and Embedding Perl",
@@ -1574,7 +1766,9 @@
         "category": "Perl",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iOS 4 in Action",
@@ -1593,7 +1787,9 @@
         "category": "Mobile Developement",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Elements of Programming with Perl",
@@ -1608,7 +1804,9 @@
         "category": "Perl",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Learn Windows PowerShell in a Month of Lunches",
@@ -1624,7 +1822,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "R in Action",
@@ -1640,7 +1840,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Android in Practice",
@@ -1655,7 +1857,9 @@
         "category": "Mobile Developement",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SOA Security",
@@ -1671,7 +1875,9 @@
         "category": "Software Engineering",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Rails 3 in Action",
@@ -1688,7 +1894,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Continuous Integration in .NET",
@@ -1705,7 +1913,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Technology Paradise Lost",
@@ -1721,7 +1931,9 @@
         "category": "Business",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Kermit 95+",
@@ -1736,7 +1948,9 @@
         "category": "Networking",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Laszlo in Action",
@@ -1752,7 +1966,9 @@
         "category": "Web Development",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Groovy in Action",
@@ -1770,7 +1986,9 @@
         "category": "Java",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Groovy in Action, Second Edition",
@@ -1791,7 +2009,9 @@
         "category": "Java",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Object Technology Centers of Excellence",
@@ -1808,7 +2028,9 @@
         "category": "Object-Technology Programming",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Test Driven",
@@ -1823,7 +2045,9 @@
         "category": "Software Engineering",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Effective Unit Testing",
@@ -1837,7 +2061,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Making Java Groovy",
@@ -1853,7 +2079,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Awesome Power of Direct3D/DirectX",
@@ -1869,7 +2097,9 @@
         "category": "Computer Graphics",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Practical Software Requirements",
@@ -1884,7 +2114,9 @@
         "category": "Software Engineering",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "NHibernate in Action",
@@ -1903,7 +2135,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Microsoft Reporting Services in Action",
@@ -1918,7 +2152,9 @@
         "category": "Microsoft .NET",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "AspectJ in Action",
@@ -1933,7 +2169,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "AspectJ in Action, Second Edition",
@@ -1949,7 +2187,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hadoop in Action",
@@ -1965,7 +2205,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQR in PeopleSoft and Other Applications",
@@ -1981,7 +2223,9 @@
         "category": "Client-Server",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQR in PeopleSoft and Other Applications, Second Edition",
@@ -1997,7 +2241,9 @@
         "category": "Client-Server",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "F# in Action",
@@ -2012,7 +2258,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Tuscany SCA in Action",
@@ -2032,7 +2280,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Client/Server Yellow Pages",
@@ -2049,7 +2299,9 @@
         "category": "Client-Server",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Object Oriented Application Frameworks",
@@ -2066,7 +2318,9 @@
         "category": "Object-Oriented Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Tapestry in Action",
@@ -2081,7 +2335,9 @@
         "category": "Internet",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "WebWork in Action",
@@ -2097,7 +2353,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "MacRuby in Action",
@@ -2112,7 +2370,9 @@
         "category": "Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Erlang and OTP in Action",
@@ -2130,7 +2390,9 @@
         "category": "Programming",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SharePoint 2007 Developer's Guide to Business Data Catalog",
@@ -2147,7 +2409,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Doing IT Right",
@@ -2163,7 +2427,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Adobe AIR in Action",
@@ -2181,7 +2447,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ant in Action",
@@ -2198,7 +2466,9 @@
         "category": "Java",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Restlet in Action",
@@ -2216,7 +2486,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iText in Action",
@@ -2232,7 +2504,9 @@
         "category": "Web Development",
         "rent": 70,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iText in Action, Second Edition",
@@ -2248,7 +2522,9 @@
         "category": "Java",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Power-3D",
@@ -2263,7 +2539,9 @@
         "category": "Computer Graphics",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SNA and TCP/IP Enterprise Networking",
@@ -2282,7 +2560,9 @@
         "category": "Software Engineering",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Subversion in Action",
@@ -2298,7 +2578,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Minimal Perl",
@@ -2313,7 +2595,9 @@
         "category": "Perl",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Distributed Programming with Java",
@@ -2328,7 +2612,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Comprehensive Networking Glossary and Acronym Guide",
@@ -2344,7 +2630,9 @@
         "category": "Internet",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JavaServer Faces in Action",
@@ -2359,7 +2647,9 @@
         "category": "Java",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "LINQ in Action",
@@ -2376,7 +2666,9 @@
         "category": "Microsoft .NET",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Internet BBSs",
@@ -2392,7 +2684,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Algorithms of the Intelligent Web",
@@ -2408,7 +2702,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JUnit in Action",
@@ -2423,7 +2719,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Tika in Action",
@@ -2438,7 +2736,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ruby in Practice",
@@ -2454,7 +2754,9 @@
         "category": "Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Inside LotusScript",
@@ -2470,7 +2772,9 @@
         "category": "Business",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Maximum MIDI",
@@ -2485,7 +2789,9 @@
         "category": "Programming",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Planning and Managing ATM Networks",
@@ -2503,7 +2809,9 @@
         "category": "Networking",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Client/Server Applications on ATM Networks",
@@ -2520,7 +2828,9 @@
         "category": "Networking",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JavaFX in Action",
@@ -2535,7 +2845,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Entity Framework 4 in Action",
@@ -2554,7 +2866,9 @@
         "category": "Microsoft .NET",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "ASP.NET 2.0 Web Parts in Action",
@@ -2570,7 +2884,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Sass and Compass in Action",
@@ -2590,7 +2906,9 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Core OWL 5.0",
@@ -2606,7 +2924,9 @@
         "category": "Programming",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Advanced OWL 5.0",
@@ -2622,7 +2942,9 @@
         "category": "Programming",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Server-Based Java Programming",
@@ -2637,7 +2959,9 @@
         "category": "Client-Server",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server MVP Deep Dives",
@@ -2660,7 +2984,9 @@
         "category": "Microsoft .NET",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server MVP Deep Dives",
@@ -2681,7 +3007,9 @@
         "category": "Microsoft .NET",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server MVP Deep Dives",
@@ -2700,7 +3028,9 @@
         "category": "Microsoft .NET",
         "rent": 90,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "PostGIS in Action",
@@ -2717,7 +3047,9 @@
         "category": "Internet",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Programming Mac OS X",
@@ -2733,7 +3065,9 @@
         "category": "Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Art of Unit Testing",
@@ -2748,7 +3082,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Mahout in Action",
@@ -2765,7 +3101,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "ASP.NET MVC in Action",
@@ -2783,7 +3121,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "ASP.NET MVC 2 in Action",
@@ -2803,7 +3143,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "ASP.NET MVC 4 in Action",
@@ -2823,7 +3165,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "EJB 3 in Action",
@@ -2840,7 +3184,9 @@
         "category": "Java",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "EJB 3 in Action, Second Edition",
@@ -2859,7 +3205,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Explorer's Guide to the Semantic Web",
@@ -2875,7 +3223,9 @@
         "category": "XML",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Practical LotusScript",
@@ -2890,7 +3240,9 @@
         "category": "Business",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Domino Development with Java",
@@ -2905,7 +3257,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Windows PowerShell in Action",
@@ -2921,7 +3275,9 @@
         "category": "Microsoft",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Windows PowerShell in Action, Second Edition",
@@ -2937,7 +3293,9 @@
         "category": "Microsoft",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Silverlight 4 in Action, Revised Edition",
@@ -2953,7 +3311,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Silverlight 5 in Action",
@@ -2967,7 +3327,9 @@
         "category": "Microsoft .NET",
         "rent": 110,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hibernate Quickly",
@@ -2984,7 +3346,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Generative Art",
@@ -2998,7 +3362,9 @@
         "category": "Algorithmic Art",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Windows Phone 7 in Action",
@@ -3017,7 +3383,9 @@
         "category": "Mobile Developement",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Lift in Action",
@@ -3031,7 +3399,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Web Development with Apache and Perl",
@@ -3046,7 +3416,9 @@
         "category": "Perl",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Real-World Functional Programming",
@@ -3062,7 +3434,9 @@
         "category": "Microsoft .NET",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Machine Learning in Action",
@@ -3078,7 +3452,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Dependency Injection",
@@ -3094,7 +3470,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Open-Source ESBs in Action",
@@ -3110,7 +3488,9 @@
         "category": "Business",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Activiti in Action",
@@ -3124,7 +3504,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "DSLs in Boo: Domain-Specific Languages in .NET",
@@ -3140,7 +3522,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JUnit Recipes",
@@ -3155,7 +3539,9 @@
         "category": "Java",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "wxPython in Action",
@@ -3172,7 +3558,9 @@
         "category": "Python",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Clojure in Action",
@@ -3188,7 +3576,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Scala in Action",
@@ -3202,7 +3592,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Working with Objects",
@@ -3218,7 +3610,9 @@
         "category": "Object-Oriented Programming",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "PHP in Action",
@@ -3235,7 +3629,9 @@
         "category": "PHP",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Secrets of the JavaScript Ninja",
@@ -3251,7 +3647,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Microsoft Office Essentials",
@@ -3267,7 +3665,9 @@
         "category": "Business",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Swing",
@@ -3281,7 +3681,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Swing Second Edition",
@@ -3294,7 +3696,9 @@
         "category": "Internet",
         "rent": 110,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Awesome Power of Java Beans",
@@ -3309,7 +3713,9 @@
         "category": "Java",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Personal Videoconferencing",
@@ -3325,7 +3731,9 @@
         "category": "Networking",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Cloud at Your Service",
@@ -3340,7 +3748,9 @@
         "category": "Internet",
         "rent": 35,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Hello World!",
@@ -3357,7 +3767,9 @@
         "category": "Python",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SCBCD Exam Study Kit",
@@ -3372,7 +3784,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Portlets in Action",
@@ -3388,7 +3802,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SWT/JFace in Action",
@@ -3408,7 +3824,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "OpenCL in Action",
@@ -3422,7 +3840,9 @@
         "category": "Programming",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Multiprotocol over ATM",
@@ -3439,7 +3859,9 @@
         "category": "Networking",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Dependency Injection in .NET",
@@ -3455,7 +3877,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java 3D Programming",
@@ -3470,7 +3894,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Liferay in Action",
@@ -3485,7 +3911,9 @@
         "category": "Internet",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JSP Tag Libraries",
@@ -3502,7 +3930,9 @@
         "category": "Java",
         "rent": 65,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Instant Messaging in Java",
@@ -3518,7 +3948,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Applets and Channels Without Programming",
@@ -3538,7 +3970,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "PowerShell in Practice",
@@ -3554,7 +3988,9 @@
         "category": "Microsoft .NET",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "PowerShell and WMI",
@@ -3568,7 +4004,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Making Sense of Java",
@@ -3588,7 +4026,9 @@
         "category": "Java",
         "rent": 30,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "C++/CLI in Action",
@@ -3604,7 +4044,9 @@
         "category": "C++",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "C# in Depth",
@@ -3619,7 +4061,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "C# in Depth, Second Edition",
@@ -3634,7 +4078,9 @@
         "category": "Microsoft .NET",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Magical A-Life Avatars",
@@ -3650,7 +4096,9 @@
         "category": "Internet",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Becoming Agile",
@@ -3667,7 +4115,9 @@
         "category": "Software Engineering",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "ActiveMQ in Action",
@@ -3685,7 +4135,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Implementing PeopleSoft Financials",
@@ -3701,7 +4153,9 @@
         "category": "Client-Server",
         "rent": 30,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server DMVs in Action",
@@ -3717,7 +4171,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Scala in Depth",
@@ -3733,7 +4189,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JMX in Action",
@@ -3749,7 +4207,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "EJB Cookbook",
@@ -3766,7 +4226,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "GWT in Action, Second Edition",
@@ -3784,7 +4246,9 @@
         "category": "Java",
         "rent":40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JUnit in Action, Second Edition",
@@ -3803,7 +4267,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Bitter Java",
@@ -3818,7 +4284,9 @@
         "category": "Java",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Bitter EJB",
@@ -3837,7 +4305,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "JDK 1.4 Tutorial",
@@ -3852,7 +4322,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "iPhone and iPad in Action",
@@ -3871,7 +4343,9 @@
         "category": "Mobile Developement",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SQL Server 2005 Reporting Services in Action",
@@ -3886,7 +4360,9 @@
         "category": "Microsoft .NET",
         "rent": 60,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Ten Years of UserFriendly.Org",
@@ -3902,7 +4378,9 @@
         "category": "Miscellaneous",
         "rent": 120,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Graphics Programming with Perl",
@@ -3917,7 +4395,9 @@
         "category": "Perl",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "RabbitMQ in Action",
@@ -3932,7 +4412,9 @@
         "category": "Software Engineering",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "XDoclet in Action",
@@ -3948,7 +4430,9 @@
         "category": "XML",
         "rent": 65,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring in Action",
@@ -3965,7 +4449,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring in Action, Second Edition",
@@ -3980,7 +4466,9 @@
         "category": "Java",
         "rent": 80,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring in Action, Third Edition",
@@ -3996,7 +4484,9 @@
         "category": "Java",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Spring in Practice",
@@ -4012,7 +4502,9 @@
         "category": "Java",
         "rent": 65,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java 2 Micro Edition",
@@ -4028,7 +4520,9 @@
         "category": "Java",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SharePoint 2010 Workflows in Action",
@@ -4044,7 +4538,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "SharePoint 2010 Web Parts in Action",
@@ -4060,7 +4556,9 @@
         "category": "Microsoft .NET",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "C++ Concurrency in Action",
@@ -4076,7 +4574,9 @@
         "category": "Microsoft .NET",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Java Servlets by Example",
@@ -4091,7 +4591,9 @@
         "category": "Java",
         "rent": 55,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "XML Programming with VB and ASP",
@@ -4107,7 +4609,9 @@
         "category": "XML",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "Oracle8i Database Administration",
@@ -4122,7 +4626,9 @@
         "category": "Networking",
         "rent": 50,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     },
     {
         "title": "The Engaging Web",
@@ -4138,6 +4644,8 @@
         "category": "Web Development",
         "rent": 40,
         "maximumStock": 5,
-        "currentStock": 5
+        "currentStock": 5,
+        "reviews": 4.4,
+        "noOfTimesRented": 0
     }
 ]

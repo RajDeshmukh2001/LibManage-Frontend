@@ -13,7 +13,7 @@ const IssuedBooks = () => {
     return (
         <div className="flex w-full flex-col gap-6 bg-neutral-50 p-6 md:gap-8 md:px-14 md:py-10">
             <div className="flex flex-col-reverse items-center justify-between gap-4 md:flex-row md:gap-0">
-                <NumbersOfItems totalData={filteredIssuedBooks} page={page} numberOfItems={numberOfItems} item="users" />
+                <NumbersOfItems totalData={filteredIssuedBooks} page={page} numberOfItems={numberOfItems} item="books" />
 
                 <div className="flex w-full flex-col md:items-center justify-end gap-3 md:flex-row">
                     <Search search={search} />

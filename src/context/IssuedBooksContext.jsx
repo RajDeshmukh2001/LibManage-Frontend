@@ -1,15 +1,16 @@
+import { useRefetchData } from "./RefetchDataContext";
 import useFetchData from "../custom-hooks/useFetchData";
-import useHandleForm from "../custom-hooks/useHandleForm";
 import { createContext, useContext, useEffect } from "react";
 
 export const IssuedBooksContext = createContext();
 
 export const IssuedBooksProvider = ({ children }) => {
     const { data, isLoading, isError, fetchData } = useFetchData();
+    const { refetch } = useRefetchData();
 
     useEffect(() => {
         fetchData("http://localhost:3000/api/issuedBooks/");
-    }, [])
+    }, [refetch])
 
     return (
         <IssuedBooksContext.Provider value={{ data, isLoading, isError, fetchData }}>

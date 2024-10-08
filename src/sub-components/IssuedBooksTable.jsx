@@ -13,7 +13,7 @@ const IssuedBooksTable = ({ page, data, books }) => {
                 color="default"
                 selectionMode="single"
                 defaultSelectedKeys={["2"]}
-                aria-label="Example static collection table"
+                aria-label="Issued books table"
             >
                 <TableHeader>
                     <TableColumn>BOOK</TableColumn>

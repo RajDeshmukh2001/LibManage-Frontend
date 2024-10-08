@@ -1,14 +1,13 @@
 import { format } from "date-fns";
 import { Link } from "react-router-dom";
 import BookSkeleton from "./BookSkeleton";
-import { PiStarFill } from "react-icons/pi";
 import { Button, Card, Image } from "@nextui-org/react";
 import { useBookContext } from "../context/BookContext";
 import { useFilterContext } from "../context/FilterContext";
-import BookIssueButton from "../helpers/BookIssueButton";
+import { PiStarBold, PiStarFill, PiStarHalfFill } from "react-icons/pi";
 
 const Books = ({ page }) => {
-    const { isLoading, isError } = useBookContext();
+    const { isLoading } = useBookContext();
     const { filteredBooks } = useFilterContext();
 
     return (
@@ -44,10 +43,22 @@ const Books = ({ page }) => {
                             </div>
 
                             <div className="mt-1 flex items-center gap-1 md:mt-0">
-                                {[...Array(5)].map((_, index) => (
-                                    <PiStarFill key={index} className="text-xs text-neutral-500/70 md:text-base"
-                                    />
-                                ))}
+                                {[...Array(5)].map((_, index) => {
+                                    return (
+                                        <span key={index}>
+                                            {
+                                                book.reviews >= index + 1 ? 
+                                                <PiStarFill className="text-xs text-orange-400 md:text-base" />
+                                                :
+                                                book.reviews >= index + 0.5 ? 
+                                                <PiStarHalfFill className="text-xs text-orange-400 md:text-base" />
+                                                :
+                                                <PiStarBold className="text-xs text-orange-400 md:text-base" />
+
+                                            }
+                                        </span>
+                                    )
+                                })}
                             </div>
 
                             <span className="w-max mt-4 rounded bg-lime-100 px-3 py-1 text-xs text-lime-700 md:hidden md:text-sm">

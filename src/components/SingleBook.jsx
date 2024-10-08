@@ -1,7 +1,7 @@
 import DOMPurify from 'dompurify';
 import { useEffect } from "react";
 import { format } from "date-fns";
-import { PiStarFill } from "react-icons/pi";
+import { PiStarBold, PiStarFill, PiStarHalfFill } from "react-icons/pi";
 import { Button, Image } from "@nextui-org/react";
 import { Link, useParams } from "react-router-dom";
 import { useBookContext } from "../context/BookContext";
@@ -33,12 +33,22 @@ const SingleBook = () => {
                     <div className="flex items-center justify-between flex-wrap gap-y-1">
                         <h1 className="text-[15px] md:text-2xl text-lime-800">{singleData?.title}</h1>
                         <div className="flex items-center gap-1">
-                            {[...Array(5)].map((_, index) => (
-                                <PiStarFill
-                                    key={index}
-                                    className="text-xs text-neutral-500/70 md:text-base"
-                                />
-                            ))}
+                            {[...Array(5)].map((_, index) => {
+                                return (
+                                    <span key={index}>
+                                        {
+                                            singleData?.reviews >= index + 1 ?
+                                                <PiStarFill className="text-xs text-orange-400 md:text-base" />
+                                                :
+                                                singleData?.reviews >= index + 0.5 ?
+                                                    <PiStarHalfFill className="text-xs text-orange-400 md:text-base" />
+                                                    :
+                                                    <PiStarBold className="text-xs text-orange-400 md:text-base" />
+
+                                        }
+                                    </span>
+                                )
+                            })}
                         </div>
                     </div>
 

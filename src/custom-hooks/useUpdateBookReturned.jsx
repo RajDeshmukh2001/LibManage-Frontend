@@ -7,7 +7,7 @@ const useUpdateBookReturned = () => {
 
     const handleBookReturned = async (id, navigate) => {
         try {
-            const res = await axios.patch(`http://localhost:3000/api/issuedBooks/bookReturned?id=${id}`);
+            const res = await axios.patch(`https://libmanage-backend.onrender.com/api/issuedBooks/bookReturned?id=${id}`);
             if (res.status === 200) {
                 toast.success(res.data.message);
                 refetchData();

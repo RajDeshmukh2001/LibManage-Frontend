@@ -9,7 +9,7 @@ export const BookProvider = ({ children }) => {
     const { refetch } = useRefetchData();
 
     useEffect(() => {
-        fetchData("http://localhost:3000/api/books/");
+        fetchData("https://libmanage-backend.onrender.com/api/books/");
     }, [refetch]);
 
     return (

@@ -13,7 +13,7 @@ const SingleUser = () => {
     const { id } = useParams();
 
     useEffect(() => {
-        getSingleData(`http://localhost:3000/api/users/${id}`);
+        getSingleData(`https://libmanage-backend.onrender.com/api/users/${id}`);
     }, []);
 
     return (

@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 const useHandleIssuedBooks = () => {
     const handleIssuedBooks = async () => {
         try {
-            await axios.patch(`http://localhost:3000/api/issuedBooks/updateBooks`);
+            await axios.patch(`https://libmanage-backend.onrender.com/api/issuedBooks/updateBooks`);
         } catch (error) {
             console.error(error);
         }

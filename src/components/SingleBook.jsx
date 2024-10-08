@@ -1,17 +1,17 @@
 import DOMPurify from 'dompurify';
 import { useEffect } from "react";
 import { format } from "date-fns";
-import { PiStarBold, PiStarFill, PiStarHalfFill } from "react-icons/pi";
 import { Button, Image } from "@nextui-org/react";
 import { Link, useParams } from "react-router-dom";
 import { useBookContext } from "../context/BookContext";
+import { PiStarBold, PiStarFill, PiStarHalfFill } from "react-icons/pi";
 
 const SingleBook = () => {
     const { getSingleData, isFetchLoading, isFetchError, singleData } = useBookContext();
     const { id } = useParams();
 
     useEffect(() => {
-        getSingleData(`http://localhost:3000/api/books/${id}`);
+        getSingleData(`https://libmanage-backend.onrender.com/api/books/${id}`);
     }, [])
 
     return (

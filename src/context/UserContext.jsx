@@ -9,7 +9,7 @@ export const UserProvider = ({ children }) => {
     const { refetch } = useRefetchData();
 
     useEffect(() => {
-        fetchData("http://localhost:3000/api/users/");
+        fetchData("https://libmanage-backend.onrender.com/api/users/");
     }, [refetch])
 
     return (
